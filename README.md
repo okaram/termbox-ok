@@ -1,4 +1,8 @@
-## IMPORTANT
+## Updated fork
+This is a fork of https://github.com/nsf/termbox, which is no longer maintained. I fixed the build by replacing the waf version. 
+ 
+
+## IMPORTANT (original starts here)
 
 This library is no longer maintained. It's pretty small if you have a big
 project that relies on it, just maintain it yourself. Or look for forks. Or look
